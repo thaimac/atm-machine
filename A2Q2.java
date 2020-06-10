@@ -11,9 +11,9 @@ import java.util.Scanner;
 /**
  *
  * @author Tyler McEwen
- * Student ID: 0870121
+ *
  * 
- * Program that simulates an ATM machine by using the Account class from Question 1
+ * Program that simulates an ATM machine
  * 
  */
 public class A2Q2 {
