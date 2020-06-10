@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package a2q2;
+package atm;
 
 import java.util.Date;
 import java.util.Scanner;
@@ -16,7 +16,7 @@ import java.util.Scanner;
  * Program that simulates an ATM machine
  * 
  */
-public class A2Q2 {
+public class ATM {
 
     /**
      * @param args the command line arguments
